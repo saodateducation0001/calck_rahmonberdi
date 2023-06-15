@@ -4,6 +4,16 @@
     box-sizing: border-box;
     font-family: Montserrat;
     user-select: none;
+
+}
+
+
+.wrapper{
+    width: 100%;
+    height: 961px;
+    background: linear-gradient( rgba(174, 235, 223, 0.675) , rgba(0, 249, 128, 0.596));
+    background-size: cover;
+    overflow: auto;
 }
 @font-face {
     font-family: Montserrat;
